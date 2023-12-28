@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\bin\Debug\net8.0\Projeto curso intermediário.exe
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\bin\Debug\net8.0\Projeto curso intermediário.deps.json
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\bin\Debug\net8.0\Projeto curso intermediário.runtimeconfig.json
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\bin\Debug\net8.0\Projeto curso intermediário.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\bin\Debug\net8.0\Projeto curso intermediário.pdb
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\refint\Projeto curso intermediário.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.pdb
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\ref\Projeto curso intermediário.dll

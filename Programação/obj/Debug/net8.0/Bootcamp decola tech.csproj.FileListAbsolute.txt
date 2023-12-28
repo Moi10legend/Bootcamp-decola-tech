@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\bin\Debug\net8.0\Bootcamp decola tech.exe
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\bin\Debug\net8.0\Bootcamp decola tech.deps.json
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\bin\Debug\net8.0\Bootcamp decola tech.runtimeconfig.json
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\bin\Debug\net8.0\Bootcamp decola tech.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\bin\Debug\net8.0\Bootcamp decola tech.pdb
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\refint\Bootcamp decola tech.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.pdb
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\ref\Bootcamp decola tech.dll

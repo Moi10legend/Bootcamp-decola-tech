@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bootcamp decola tech/1.0.0": {
+        "runtime": {
+          "Bootcamp decola tech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bootcamp decola tech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
