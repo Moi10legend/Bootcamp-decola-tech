@@ -12,3 +12,4 @@ C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediár
 C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.pdb
 C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.genruntimeconfig.cache
 C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\ref\Projeto curso intermediário.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Projeto curso intermediário\obj\Debug\net8.0\Projeto curso intermediário.sourcelink.json

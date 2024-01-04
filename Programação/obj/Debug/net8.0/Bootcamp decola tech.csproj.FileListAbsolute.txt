@@ -12,3 +12,4 @@ C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\ne
 C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.pdb
 C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.genruntimeconfig.cache
 C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\ref\Bootcamp decola tech.dll
+C:\Users\Administrador\Documents\Bootcamp decola tech\Programação\obj\Debug\net8.0\Bootcamp decola tech.sourcelink.json

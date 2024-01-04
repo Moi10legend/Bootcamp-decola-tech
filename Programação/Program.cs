@@ -2,7 +2,34 @@
 using System.Net.Mail;
 using Programacao.Models;
 using Bootcamp_decola_tech.Models;
+using System.Runtime.InteropServices.Marshalling;
 
+
+// Pergunta ao usuário quantos jogos deseja adicionar:
+Console.WriteLine("Quantos jogos você deseja adicionar?");
+        int quantidadeJogos = int.Parse(Console.ReadLine());
+
+        // TODO: Inicializa os arrays com base na quantidade informada pelo usuário:
+       string[] nomesJogos = new string[quantidadeJogos - 1];
+
+        // TODO: Crei um Loop para adicionar jogos conforme a quantidade especificada:
+       for(int i = 0; i <= quantidadeJogos; i++)
+       {
+        Console.WriteLine($"Qual o {i + 1}º você deseja adicionar?");
+        nomesJogos[i] = Console.ReadLine();
+       }
+        string[] nomes = nomesJogos;
+        //TODO: Chame a função AdicionarJogo para obter o nome do jogo e armazená-lo no array:
+       foreach(string nomesLista in nomes){
+        Console.WriteLine(nomesLista);
+       }
+
+        // Exibe o resumo da adição de jogos
+       
+
+    
+
+    
 
 
 
